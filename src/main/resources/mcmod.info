@@ -1,0 +1,15 @@
+[
+  {
+    "modid": "invmine",
+    "name": "InvMine",
+    "description": "Позволяет ходить, прыгать и бегать с открытыми интерфейсами (инвентарь, сундуки, печки, интерфейсы модов). Только клиент. / Walk around while GUIs are open. Client-side only.",
+    "version": "${version}",
+    "mcversion": "${mcversion}",
+    "url": "",
+    "authorList": ["InvMine"],
+    "credits": "Inspired by InvMove by PieKing1215",
+    "logoFile": "",
+    "screenshots": [],
+    "dependencies": []
+  }
+]

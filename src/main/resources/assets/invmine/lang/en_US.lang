@@ -1,0 +1,4 @@
+key.invmine.toggle=Toggle movement in GUIs
+key.categories.invmine=InvMine
+invmine.message.enabled=InvMine: movement in GUIs enabled
+invmine.message.disabled=InvMine: movement in GUIs disabled
